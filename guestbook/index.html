@@ -156,17 +156,21 @@
   daovoice('update');
   </script>
 
-  <meta name="description" content="欢 迎 大 家 踊 跃 留 言 ！">
+  <meta name="description" content="欢 迎 大 家 踊 跃 留 言 ！😊">
 <meta property="og:type" content="website">
 <meta property="og:title" content="留言互动">
 <meta property="og:url" content="https://www.ipyker.com/guestbook/index.html">
 <meta property="og:site_name" content="派 | Pyker">
-<meta property="og:description" content="欢 迎 大 家 踊 跃 留 言 ！">
+<meta property="og:description" content="欢 迎 大 家 踊 跃 留 言 ！😊">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-05-25T06:25:54.594Z">
+<meta property="og:image" content="https://images6.alphacoders.com/659/thumb-1920-659627.png">
+<meta property="og:image" content="https://images.alphacoders.com/728/thumb-1920-728213.png">
+<meta property="og:image" content="https://images4.alphacoders.com/913/thumb-1920-913900.png">
+<meta property="og:updated_time" content="2019-05-25T18:39:12.276Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="留言互动">
-<meta name="twitter:description" content="欢 迎 大 家 踊 跃 留 言 ！">
+<meta name="twitter:description" content="欢 迎 大 家 踊 跃 留 言 ！😊">
+<meta name="twitter:image" content="https://images6.alphacoders.com/659/thumb-1920-659627.png">
 
 
 
@@ -225,6 +229,9 @@
   </style>
 </noscript>
  
+<link rel="stylesheet" href="\assets\css\APlayer.min.css" class="aplayer-style-marker">
+<script src="\assets\js\APlayer.min.js" class="aplayer-script-marker"></script>
+<script src="\assets\js\Meting.min.js" class="meting-script-marker"></script>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="zh-CN">
@@ -491,10 +498,14 @@
       <div class="post-body">
         
         
-          <blockquote>
-<p><strong>欢 迎 大 家 踊 跃 留 言 ！</strong></p>
-</blockquote>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=4&id=527194581&auto=1&height=430"></iframe>
+          <div class="note success">
+            <p><strong>欢 迎 大 家 踊 跃 留 言 ！😊</strong> </p>
+          </div>
+
+    <div id="aplayer-saxplCto" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="2248307886" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#FF0000"></div>
+<hr>
+<p><img src="https://images6.alphacoders.com/659/thumb-1920-659627.png" alt><br><img src="https://images.alphacoders.com/728/thumb-1920-728213.png" alt><br><img src="https://images4.alphacoders.com/913/thumb-1920-913900.png" alt></p>
+
         
       </div>
       
@@ -719,7 +730,7 @@
             <div class="links-of-blogroll motion-element links-of-blogroll-inline">
               <div class="links-of-blogroll-title">
                 <i class="fa  fa-fw fa-link"></i>
-                友情链接
+                推荐阅读
               </div>
               <ul class="links-of-blogroll-list">
                 
@@ -737,6 +748,10 @@
                 
                   <li class="links-of-blogroll-item">
                     <a href="http://linux.51yip.com/" title="http://linux.51yip.com/" rel="noopener" target="_blank">Linux命令手册</a>
+                  </li>
+                
+                  <li class="links-of-blogroll-item">
+                    <a href="https://echarts.baidu.com/index.html" title="https://echarts.baidu.com/index.html" rel="noopener" target="_blank">echarts可视化库</a>
                   </li>
                 
               </ul>
@@ -1347,41 +1362,6 @@
 
 
   
-<script>
-  $('.highlight').not('.gist .highlight').each(function(i, e) {
-    var $wrap = $('<div>').addClass('highlight-wrap');
-    $(e).after($wrap);
-    $wrap.append($('<button>').addClass('copy-btn').append('复制').on('click', function(e) {
-      var code = $(this).parent().find('.code').find('.line').map(function(i, e) {
-        return $(e).text();
-      }).toArray().join('\n');
-      var ta = document.createElement('textarea');
-      var yPosition = window.pageYOffset || document.documentElement.scrollTop;
-      ta.style.top = yPosition + 'px'; // Prevent page scroll
-      ta.style.position = 'absolute';
-      ta.style.opacity = '0';
-      ta.readOnly = true;
-      ta.value = code;
-      document.body.appendChild(ta);
-      ta.select();
-      ta.setSelectionRange(0, code.length);
-      ta.readOnly = false;
-      var result = document.execCommand('copy');
-      
-        if (result) $(this).text('复制成功');
-        else $(this).text('复制失败');
-      
-      ta.blur(); // For iOS
-      $(this).blur();
-    })).on('mouseleave', function(e) {
-      var $b = $(this).find('.copy-btn');
-      setTimeout(function() {
-        $b.text('复制');
-      }, 300);
-    }).append(e);
-  })
-</script>
-
 
   
 

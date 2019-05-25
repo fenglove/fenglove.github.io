@@ -29,7 +29,7 @@
       
         
         
-          &lt;h3 id=&quot;CentOS7-安装Docker-CE&quot;&gt;&lt;a href=&quot;#CentOS7-安装Docker-CE&quot; class=&quot;headerlink&quot; title=&quot;CentOS7 安装Docker-CE&quot;&gt;&lt;/a&gt;CentOS7
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -57,7 +57,7 @@
       
         
         
-          &lt;h2 id=&quot;试验环境&quot;&gt;&lt;a href=&quot;#试验环境&quot; class=&quot;headerlink&quot; title=&quot;试验环境&quot;&gt;&lt;/a&gt;试验环境&lt;/h2&gt;&lt;p&gt;本次试验的&lt;code&gt;elastic
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -87,7 +87,7 @@
       
         
         
-          &lt;h2 id=&quot;一：认识Filebeat&quot;&gt;&lt;a href=&quot;#一：认识Filebeat&quot; class=&quot;headerlink&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -115,8 +115,7 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;说明： elastic官方在elastic stack 6.4.2版本后就在elasticsearch中内置了X-Pack工具，因此下文破解X-Pack7.0.1的版本也是对应elastic
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -142,7 +141,7 @@
       
         
         
-          &lt;h2 id=&quot;Prometheus介绍&quot;&gt;&lt;a href=&quot;#Prometheus介绍&quot; class=&quot;headerlink&quot; title=&quot;Prometheus介绍&quot;&gt;&lt;/a&gt;Prometheus介绍&lt;/h2&gt;&lt;p&gt;Prometheus
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -168,7 +167,7 @@
       
         
         
-          &lt;h3 id=&quot;tomcat三种模式&quot;&gt;&lt;a href=&quot;#tomcat三种模式&quot; class=&quot;headerlink&quot; title=&quot;tomcat三种模式&quot;&gt;&lt;/a&gt;tomcat三种模式&lt;/h3&gt;&lt;p&gt;Tomcat
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -194,7 +193,7 @@
       
         
         
-          &lt;p&gt;以下总结了日常常用的git指令方便读者学习和测试，如果想了解更多git指令相关的命令和参数，请参考&lt;a href=&quot;https://git-scm.com/docs&quot; target=&quot;_blank&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -220,7 +219,7 @@
       
         
         
-          &lt;p&gt;常见的git环境有git web版和gitolite版本，gitolite权限控制强大，但功能不完善，而git web(gitlab)虽然权限没有像gitolite分的那么细，但是功能异常强大，不仅支持SSH
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -246,8 +245,7 @@
       
         
         
-          &lt;p&gt;Mysql在安装运行后，其性能并不一定为实际需要的性能，因此我们常常会在mysql运行一段时间后进行mysql的性能状态查询来了解mysql服务器的性能指标，从而来优化mysql。&lt;/p&gt;
-&lt;h3 id=&quot;查看mysql性能状态命令&quot;&gt;&lt;a
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -273,7 +271,7 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://www.ipyker.com/2018/09/13/zabbix-trigger/&quot;&gt;上一篇&lt;/a&gt;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -299,7 +297,7 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://www.ipyker.com/2018/09/12/zabbix-item/&quot;&gt;上一篇&lt;/a&gt;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -325,7 +323,7 @@
       
         
         
-          &lt;p&gt;通过&lt;a href=&quot;https://www.ipyker.com/2018/09/11/zabbix-agent/&quot;&gt;上一篇&lt;/a&gt;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -351,8 +349,7 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://www.ipyker.com/2018/09/11/zabbix-server/&quot;&gt;上一篇&lt;/a&gt; 我们已经进行了对zabbix的server端安装，本篇我们将进行对Zabbix agent端安装配置！&lt;/p&gt;
-&lt;p&gt;通过&lt;a
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -378,8 +375,7 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;https://www.ipyker.com/2018/09/11/zabbix-summarize/&quot;&gt;上一篇&lt;/a&gt; 我们已经讲了zabbix的常用组件和工作模式，本篇我们将进行对Zabbix Server端安装配置！&lt;/p&gt;
-&lt;h2
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -405,7 +401,7 @@
       
         
         
-          &lt;h2 id=&quot;为什么要用Zabbix&quot;&gt;&lt;a href=&quot;#为什么要用Zabbix&quot; class=&quot;headerlink&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -431,7 +427,7 @@
       
         
         
-          &lt;h3 id=&quot;原由&quot;&gt;&lt;a href=&quot;#原由&quot; class=&quot;headerlink&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -457,7 +453,7 @@
       
         
         
-          &lt;h2 id=&quot;Playbook简介&quot;&gt;&lt;a href=&quot;#Playbook简介&quot; class=&quot;headerlink&quot;
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -483,10 +479,7 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;本文主要讲解ansible的常用命令和简单安装步骤，具体配置文件详解以及playbook暂未涉及！后续更新。。。。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;安装Ansible&quot;&gt;&lt;a
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -512,7 +505,7 @@
       
         
         
-          &lt;h2 id=&quot;Nginx-内置变量解释&quot;&gt;&lt;a href=&quot;#Nginx-内置变量解释&quot; class=&quot;headerlink&quot; title=&quot;Nginx 内置变量解释&quot;&gt;&lt;/a&gt;Nginx
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     
@@ -538,7 +531,7 @@
       
         
         
-          &lt;h3 id=&quot;location-的匹配顺序是“先匹配正则，再匹配普通”。&quot;&gt;&lt;a href=&quot;#location-的匹配顺序是“先匹配正则，再匹配普通”。&quot; class=&quot;headerlink&quot; title=&quot;location
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
         
       
     

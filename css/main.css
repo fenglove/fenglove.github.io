@@ -154,7 +154,7 @@ template {
 body {
   position: relative;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 2;
   color: #555;
   background: #fff;
@@ -166,7 +166,7 @@ body {
 }
 @media (min-width: 1200px) {
   body {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 h1,
@@ -1351,7 +1351,7 @@ pre .javascript .function {
 .post-body .figure .caption {
   margin: -20px auto 15px;
   text-align: center;
-  font-size: 14px;
+  font-size: 16px;
   color: #999;
   font-weight: bold;
   line-height: 1;
@@ -1754,9 +1754,9 @@ pre .javascript .function {
   margin: 0;
   padding: 0 15px;
   border-radius: 5px;
-  height: 32px;
-  line-height: 32px;
-  font-size: 16px;
+  height: 36px;
+  line-height: 36px;
+  font-size: 18px;
   color: #fff;
   background: #f44336;
   letter-spacing: normal;
@@ -1808,16 +1808,6 @@ pre .javascript .function {
 }
 .rtl.post-title {
   font-family: UKIJ Ekran;
-}
-.post-body p a {
-  color: #0593d3;
-  border-bottom: none;
-  border-bottom: 1px solid #0593d3;
-}
-.post-body p a:hover {
-  color: #fc6423;
-  border-bottom: none;
-  border-bottom: 1px solid #fc6423;
 }
 .sidebar {
   position: fixed;
@@ -1941,7 +1931,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #39005e;
+  background: #50ff3e;
 }
 .feed-link,
 .chat {
@@ -2302,38 +2292,6 @@ pre .javascript .function {
   transform: translate(-50%, -50%);
   color: #ccc;
 }
-.copy-btn {
-  display: inline-block;
-  padding: 6px 12px;
-  font-size: 13px;
-  font-weight: 700;
-  line-height: 20px;
-  color: #333;
-  white-space: nowrap;
-  vertical-align: middle;
-  cursor: pointer;
-  background-color: #eee;
-  background-image: linear-gradient(#fcfcfc, #eee);
-  border: 1px solid #d5d5d5;
-  border-radius: 3px;
-  user-select: none;
-  outline: 0;
-}
-.highlight-wrap .copy-btn {
-  transition: opacity 0.3s ease-in-out;
-  opacity: 0;
-  padding: 2px 6px;
-  position: absolute;
-  right: 4px;
-  top: 8px;
-}
-.highlight-wrap:hover .copy-btn,
-.highlight-wrap .copy-btn:focus {
-  opacity: 1;
-}
-.highlight-wrap {
-  position: relative;
-}
 .page-archive .archive-page-counter {
   position: relative;
   top: 3px;
@@ -2544,7 +2502,7 @@ ul.breadcrumb {
   margin: 1em 0;
   padding: 0 2em;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
 }
 ul.breadcrumb li {
   display: inline;
@@ -2808,7 +2766,7 @@ hr {
 }
 @media (max-width: 767px) {
   .posts-expand .post-body {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 .posts-expand .post-body img {
@@ -2834,7 +2792,7 @@ hr {
 }
 .post-button a {
   padding: 0;
-  font-size: 14px;
+  font-size: 16px;
   background: none;
   border: none;
   border-bottom: 2px solid #666;
@@ -2842,12 +2800,12 @@ hr {
 }
 @media (max-width: 767px) {
   .post-button a {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 @media (min-width: 1200px) {
   .post-button a {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 .post-button a:hover {
@@ -2947,4 +2905,14 @@ body {
   right: 0 !important;
   top: 0 !important;
   bottom: 0 !important;
+}
+.post-body p a {
+  color: #1c86ee;
+  border-bottom: none;
+  border-bottom: 1px solid #1c86ee;
+}
+.post-body p a:hover {
+  color: #fc6423;
+  border-bottom: none;
+  border-bottom: 1px solid #fc6423;
 }
