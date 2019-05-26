@@ -43,3 +43,9 @@
 * 修改选中字符的颜色
 * 添加aplay音乐播放
 * 添加博客右下角卡通动漫
+* 增加了3D库three_waves，默认关闭
+* 增加了canvas页面丝带
+* 增加了首页pace加载进度
+* 增加图片懒加载lazyload
+* 增加了fancybox
+* 增加了fastclick解决延迟问题

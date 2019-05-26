@@ -112,9 +112,3 @@ symbols_count_time:
 #音乐播放插件
 aplayer:
   meting: true
-
-#图片快速加载设置
-lazyload:
-  enable: true 
-  onlypost: false
-  loadingImg: # eg. ./images/loading.png
