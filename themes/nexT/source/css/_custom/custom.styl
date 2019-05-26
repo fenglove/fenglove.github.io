@@ -1,0 +1,75 @@
+// Custom styles.
+// 主页文章添加阴影效果
+.post {
+margin-top: 60px;
+margin-bottom: 60px;
+padding: 25px;
+-webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);
+-moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);
+}
+
+//设置背景图片
+//body {
+//    background:url(https://images6.alphacoders.com/613/thumb-350-613932.png);
+//    background-repeat: repeat;
+//    background-attachment:fixed;
+//    background-position:50% 50%;
+//    background-size:cover;
+//}
+//改变背景色和透明度
+//.main-inner {
+//   background: #fff;
+//   opacity: 0.9;
+//}
+
+//顶栏背景色，图片用backgroud:url()
+.header {
+          background:rgba(#CD3278,0.3) none repeat scroll !important;
+}
+
+//底栏背景色
+.footer {
+          background:rgba(#CD3278,0.3) none repeat scroll !important;
+}
+//Mist方式侧边导航背景图片
+.sidebar {
+    background: url(/images/sidebar-bg1.jpg) repeat!important;
+    background-image: url(/images/sidebar-bg1.jpg) !important;
+    background-position-x: initial !important;
+    background-position-y: initial !important;
+    background-size: cover!important;
+    background-repeat-x: no-repeat !important;
+    background-repeat-y: no-repeat !important;
+    background-attachment: initial !important;
+    background-origin: initial !important;
+    background-clip: initial !important;
+    background-color: initial !important;
+    background-size: cover!important;
+    position: fixed!important;
+    right: 0!important;
+    top: 0!important;
+    bottom: 0!important;
+}
+//文章内链接文本样式
+.post-body p a{
+  color: #1C86EE;
+  border-bottom: none;
+  border-bottom: 1px solid #1C86EE;
+  &:hover {
+    color: #fc6423;
+    border-bottom: none;
+    border-bottom: 1px solid #fc6423;
+  }
+}
+
+// 修改选中字符的颜色
+/* webkit, opera, IE9 */
+::selection { 
+    background: #00c4b6;
+    color: #f7f7f7; 
+}
+/* firefox */
+::-moz-selection { 
+    background: #00c4b6;
+    color: #f7f7f7;    
+}
