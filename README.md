@@ -1,4 +1,5 @@
-![](https://img.shields.io/badge/hexo-brightgreen.svg?style=plastic)
+[![](https://img.shields.io/badge/Hexo-brightgreen.svg?style=plastic)](https://hexo.io/)
+[![](https://img.shields.io/badge/nexT-pyker-yellow.svg?style=plastic)](https://github.com/theme-next/hexo-theme-next)
 
 ## 目录
 我们主要对next主题进行了如下配置操作。效果可以前往https://www.ipyker.com 查看。
