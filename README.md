@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/Hexo-brightgreen.svg?style=plastic)](https://hexo.io/)
 [![](https://img.shields.io/badge/nexT-pyker-yellow.svg?style=plastic)](https://github.com/theme-next/hexo-theme-next)
 
-[中文介绍](zh-CN/README.md) | [nexT Demo](https://www.ipyker.com)
+[中文介绍](zh-CN/README.md) | [nexT Demo](https://blog.itcpay.com)
 ## Catalogue
 We mainly performed the following configuration operations on the next theme.
 
@@ -76,11 +76,11 @@ After the next theme is downloaded, in addition to the content update described 
 ### Master configuration file _config.yml parameter
 ```yaml
 $ vi <folder>/_config.yml
-title: 派 | Pyker   #Edit blog title
-description: 与其临渊羡鱼，不如退而结网。     #Modify description blogger description
-url: https://www.ipyker.com    # Modify your website address
+title: 别说你不在状态   #Edit blog title
+description: 余生很长，记得善良。     #Modify description blogger description
+url: https://blog.itcpay.com    # Modify your website address
 deploy:
-  repository: https://github.com/ipyker/ipyker.github.io    #Modify into your own github pages address
+  repository: https://github.com/fenglove/fenglove.github.io    #Modify into your own github pages address
 ```
 ### Theme configuration file _config.yml parameter
 ```yaml
@@ -92,16 +92,16 @@ favicon:    # Edit website icon
 
 beian:      # Modify the record number 
   enable: true
-  icp: 粤ICP备19028706号
+  icp: 粤ICP备18075460号
 
 github_banner:    # Modify github banner address
   enable: true
-  permalink: https://github.com/ipyker
+  permalink: https://github.com/fenglove
 
 social:            # Edit social addresses and icons
-  GitHub: https://github.com/ipyker || github
-  E-Mail: mailto:pyker@qq.com || envelope
-  Weibo: https://weibo.com/viszhang || weibo
+  GitHub: https://github.com/fenglove || github
+  E-Mail: mailto:826634596@qq.com || envelope
+#  Weibo: https://weibo.com/viszhang || weibo
   QQ: tencent://message/?uin=xxxxxxxxx&Site=&menu=yes || qq
 
 links:        # Modify recommended reading

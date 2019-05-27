@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 派 | Pyker
+title: 别说你不在状态
 subtitle:
-description: 与其临渊羡鱼，不如退而结网。
+description: 余生很长，记得善良
 keywords:
-author: 丨Pyker丨
+author: 丨fenglove丨
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.ipyker.com
+url: https://blog.itcpay.com
 root: /
 permalink: :year/:month/:day/:title.html
 permalink_defaults:
@@ -79,7 +79,7 @@ theme: nexT
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/ipyker/ipyker.github.io
+  repository: https://github.com/fenglove/fenglove.github.io
   branch: master
 
 search:
