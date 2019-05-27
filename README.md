@@ -1,5 +1,4 @@
-# [Hexo](https://hexo.io/) [![Circle CI](https://circleci.com/gh/grafana/grafana.svg?style=svg)](https://circleci.com/gh/grafana/grafana) [![Go Report Card](https://goreportcard.com/badge/github.com/grafana/grafana)](https://goreportcard.com/report/github.com/grafana/grafana) [![codecov](https://codecov.io/gh/grafana/grafana/branch/master/graph/badge.svg)](https://codecov.io/gh/grafana/grafana)
-
+# [Hexo](https://hexo.io/) [![hexo](https://img.shields.io/badge/language-swift-brightgreen.svg?style=plastic]
 
 ## 目录
 我们主要对next主题进行了如下配置操作。效果可以前往https://www.ipyker.com 查看。
