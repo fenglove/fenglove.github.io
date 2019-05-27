@@ -53,7 +53,8 @@
 
 **下载到本地后，记得把.gitignore文件修改成以下内容**
 
->.DS_Store\n
+>.DS_Store
+>
 >Thumbs.db
 >db.json
 >*.log
