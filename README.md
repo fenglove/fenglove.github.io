@@ -52,10 +52,11 @@
 
 
 **下载到本地后，记得把.gitignore文件修改成以下内容**
+
 >.DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
+>Thumbs.db
+>db.json
+>*.log
+>node_modules/
+>public/
+>.deploy*/
