@@ -54,7 +54,7 @@
 * 增加了fastclick解决延迟问题
 * 增加了gulp压缩网页css js样式
 
-
+## hexo主题应忽push的文件
 **下载到本地后，记得把.gitignore文件修改成以下内容**
 
 >.DS_Store
@@ -70,3 +70,54 @@
 >public/
 >
 >.deploy*/
+
+## 用法
+next主题下载下来后，除了上述`目录`介绍的内容更新外，用户还需要更改一些自己的额外信息。
+### 主站配置文件_config.yml参数
+```yaml
+$ vi <folder>/_config.yml
+title: 派 | Pyker   #修改博客标题
+description: 与其临渊羡鱼，不如退而结网。     #修改描述博主描述
+url: https://www.ipyker.com    # 修改自己的网站地址
+deploy:
+  repository: https://github.com/ipyker/ipyker.github.io    #修改成自己github pages地址
+```
+### 主题配置文件_config.yml参数
+```yaml
+favicon:    # 修改网站图标
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
+
+beian:      # 修改备案号 
+  enable: true
+  icp: 粤ICP备19028706号
+
+github_banner:    # 修改github banner地址
+  enable: true
+  permalink: https://github.com/ipyker
+
+social:            # 修改社交地址和图标
+  GitHub: https://github.com/ipyker || github
+  E-Mail: mailto:pyker@qq.com || envelope
+  Weibo: https://weibo.com/viszhang || weibo
+  QQ: tencent://message/?uin=xxxxxxxxx&Site=&menu=yes || qq
+
+links:        # 修改推荐阅读
+  运维生存时间: http://www.ttlsa.com/
+  爱运维: https://www.iyunw.cn
+  Nginxconfig: https://nginxconfig.io/
+  Linux命令手册: http://linux.51yip.com/
+  echarts可视化库: https://echarts.baidu.com/index.html
+
+avatar:
+  url: /images/avatar.jpg      #修改博主头像
+
+reward:        #修改打赏二维码
+  wechatpay: /images/reward/wechatpay.png
+  alipay: /images/reward/alipay.png
+
+livere_uid: MTAyMC80NDM5Mi8yMDkyNA==   # 修改来必力评论key，否则无法管理评论
+```
+
