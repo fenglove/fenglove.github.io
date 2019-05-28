@@ -1,24 +1,27 @@
-[![](https://img.shields.io/badge/Hexo-brightgreen.svg?style=plastic)](https://hexo.io/)
-[![](https://img.shields.io/badge/nexT-pyker-yellow.svg?style=plastic)](https://github.com/theme-next/hexo-theme-next)
+[Blog Website](https://blog.itcpay.com)
 
-[中文介绍](/README.md) | [Blog Website](https://blog.itcpay.com)
+## What is the main blog? 
+**Mainly introduce related technologies**
 
-## Hexo theme should be ignored by the file
-**After downloading to local, remember to change the .gitignore file to the following**
-
->.DS_Store
+>java(Spring boot|Spring cloud)
 >
->Thumbs.db
+>bigdata(hadoop|hbase|spark|flink)
 >
->db.json
+>rabbtimq|mysql
 >
->*.log
+>docker
 >
->node_modules/
+>kubernetes
 >
->public/
+>EFK(Elasticsearch|Filebeat|Kafka)
 >
->.deploy*/
+>nacos
+>
+>tool(jenkins|gitlab|idea|maven)
+>
+>tomcat/jetty
+>
+>react/vue
 
 ### Master configuration file _config.yml parameter
 ```yaml
@@ -39,7 +42,7 @@ favicon:    # Edit website icon
 
 beian:      # Modify the record number 
   enable: true
-  icp: 粤ICP备18075460号
+  icp: 粤ICP备xxxxxx号
 
 github_banner:    # Modify github banner address
   enable: true
@@ -47,8 +50,8 @@ github_banner:    # Modify github banner address
 
 social:            # Edit social addresses and icons
   GitHub: https://github.com/fenglove || github
-  E-Mail: mailto:826634596@qq.com || envelope
-#  Weibo: https://weibo.com/viszhang || weibo
+  E-Mail: mailto:xxxxxx@qq.com || envelope
+#  Weibo: https://weibo.com || weibo
   QQ: tencent://message/?uin=xxxxxxxxx&Site=&menu=yes || qq
 
 links:        # Modify recommended reading
@@ -62,5 +65,5 @@ reward:        #Modify the reward QR code
   wechatpay: /images/reward/wechatpay.png
   alipay: /images/reward/alipay.png
 
-livere_uid: MTAyMC80NDM5Mi8yMDkyNA==   # Modify to force the comment key, otherwise you can't manage the comment
+livere_uid: xxxxxxx==   # Modify to force the comment key, otherwise you can't manage the comment
 ```
