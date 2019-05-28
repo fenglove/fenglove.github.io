@@ -3,21 +3,21 @@
 ## What is the main blog? 
 **Mainly introduce related technologies**
 
->Java (Spring boot|Spring cloud)
+>Java (Spring boot/Spring cloud)
 >
->Bigdata (Hadoop|Hbase|Spark|Flink)
+>Bigdata (Hadoop/Hbase/Spark/Flink)
 >
->Rabbtimq|Mysql
+>Rabbtimq/Mysql
 >
 >Docker
 >
 >Kubernetes
 >
->EFK (Elasticsearch|Filebeat|Kafka)
+>EFK (Elasticsearch/Filebeat/Kafka)
 >
 >Nacos
 >
->Tools (jenkins|gitlab|idea|maven)
+>Tools (jenkins/gitlab/idea/maven)
 >
 >Tomcat/Jetty
 >
