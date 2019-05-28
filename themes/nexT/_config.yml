@@ -49,7 +49,7 @@ rss: /atom.xml
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  since: 2017
+  since: 2019
 
   # visitors count
   counter: true  
@@ -1221,7 +1221,7 @@ passage_end_tag:
 
 # Online contact 
 daovoice: true
-daovoice_app_id: bd399fce
+daovoice_app_id: 93f9e9ce
 
 # 2d桌面live
 live2d:
