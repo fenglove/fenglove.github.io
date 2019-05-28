@@ -3,25 +3,25 @@
 ## What is the main blog? 
 **Mainly introduce related technologies**
 
->java(Spring boot|Spring cloud)
+>Java (Spring boot|Spring cloud)
 >
->bigdata(hadoop|hbase|spark|flink)
+>Bigdata (Hadoop|Hbase|Spark|Flink)
 >
->rabbtimq|mysql
+>Rabbtimq|Mysql
 >
->docker
+>Docker
 >
->kubernetes
+>Kubernetes
 >
->EFK(Elasticsearch|Filebeat|Kafka)
+>EFK (Elasticsearch|Filebeat|Kafka)
 >
->nacos
+>Nacos
 >
->tool(jenkins|gitlab|idea|maven)
+>Tools (jenkins|gitlab|idea|maven)
 >
->tomcat/jetty
+>Tomcat/Jetty
 >
->react/vue
+>React/Vue
 
 ### Master configuration file _config.yml parameter
 ```yaml
