@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>别说你不在状态</title>
+  
+  <subtitle>余生很长，记得善良</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.itcpay.com/"/>
+  <updated>2019-05-28T03:16:29.476Z</updated>
+  <id>https://blog.itcpay.com/</id>
+  
+  <author>
+    <name>丨fenglove丨</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Elastic Stack之Filebeat7.0详解</title>
+    <link href="https://blog.itcpay.com/2019/03/14/filebeat.html"/>
+    <id>https://blog.itcpay.com/2019/03/14/filebeat.html</id>
+    <published>2019-03-14T04:10:00.000Z</published>
+    <updated>2019-05-28T03:16:29.476Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="elastic" scheme="https://blog.itcpay.com/categories/elastic/"/>
+    
+    
+      <category term="filebeat" scheme="https://blog.itcpay.com/tags/filebeat/"/>
+    
+      <category term="efk" scheme="https://blog.itcpay.com/tags/efk/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Elastic Stack之X-Pack7.0破解</title>
+    <link href="https://blog.itcpay.com/2019/03/13/elastic-x-pack.html"/>
+    <id>https://blog.itcpay.com/2019/03/13/elastic-x-pack.html</id>
+    <published>2019-03-13T08:30:00.000Z</published>
+    <updated>2019-05-28T03:16:29.474Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="elastic" scheme="https://blog.itcpay.com/categories/elastic/"/>
+    
+    
+      <category term="x-pack" scheme="https://blog.itcpay.com/tags/x-pack/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 常 用 命 令</title>
+    <link href="https://blog.itcpay.com/2018/11/30/git-command.html"/>
+    <id>https://blog.itcpay.com/2018/11/30/git-command.html</id>
+    <published>2018-11-30T09:30:00.000Z</published>
+    <updated>2019-05-28T03:16:29.478Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="CI/CD" scheme="https://blog.itcpay.com/categories/CI-CD/"/>
+    
+    
+      <category term="git" scheme="https://blog.itcpay.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云ECS用465端口发邮件</title>
+    <link href="https://blog.itcpay.com/2018/03/25/aliyun-ecs-mail.html"/>
+    <id>https://blog.itcpay.com/2018/03/25/aliyun-ecs-mail.html</id>
+    <published>2018-03-25T14:32:00.000Z</published>
+    <updated>2019-05-28T03:16:29.464Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://blog.itcpay.com/categories/Linux/"/>
+    
+    
+      <category term="aliyun" scheme="https://blog.itcpay.com/tags/aliyun/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ansible playbook详解</title>
+    <link href="https://blog.itcpay.com/2018/03/23/ansible-playbook.html"/>
+    <id>https://blog.itcpay.com/2018/03/23/ansible-playbook.html</id>
+    <published>2018-03-23T02:20:00.000Z</published>
+    <updated>2019-05-28T03:16:29.469Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="CI/CD" scheme="https://blog.itcpay.com/categories/CI-CD/"/>
+    
+    
+      <category term="ansible" scheme="https://blog.itcpay.com/tags/ansible/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ansible 常用模块指令</title>
+    <link href="https://blog.itcpay.com/2018/03/22/ansible-module.html"/>
+    <id>https://blog.itcpay.com/2018/03/22/ansible-module.html</id>
+    <published>2018-03-22T06:47:00.000Z</published>
+    <updated>2019-05-28T03:16:29.467Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="CI/CD" scheme="https://blog.itcpay.com/categories/CI-CD/"/>
+    
+    
+      <category term="ansible" scheme="https://blog.itcpay.com/tags/ansible/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7 内核参数详解</title>
+    <link href="https://blog.itcpay.com/2017/11/21/centos-kernel-analysis.html"/>
+    <id>https://blog.itcpay.com/2017/11/21/centos-kernel-analysis.html</id>
+    <published>2017-11-21T15:47:00.000Z</published>
+    <updated>2019-05-28T03:16:29.471Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://blog.itcpay.com/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="https://blog.itcpay.com/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
