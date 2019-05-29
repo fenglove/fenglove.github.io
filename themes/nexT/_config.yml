@@ -1225,21 +1225,22 @@ daovoice: false
 daovoice_app_id: 93f9e9ce
 
 # 2d桌面live
-live2d:
-  enable: true
-  scriptFrom: local
-  pluginRootPath: live2dw/
-  pluginJsPath: lib/
-  pluginModelPath: assets/
-  tagMode: false
-  debug: false
-  model:
-    use: live2d-widget-model-wanko
-  display:
-    position: left
-    width: 150
-    height: 300
-  mobile:
-    show: false
-  react:
-    opacity: 0.7
+#live2d:
+#  enable: false
+#  scriptFrom: local
+#  pluginRootPath: live2dw/
+#  pluginJsPath: lib/
+#  pluginModelPath: assets/
+#  tagMode: false
+#  debug: false
+#  model:
+#    use: live2d-widget-model-wanko
+#  display:
+#    position: left
+#    width: 150
+#    height: 300
+#  mobile:
+#    show: false
+#  react:
+#    opacity: 0.7
+    
